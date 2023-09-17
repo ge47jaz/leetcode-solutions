@@ -27,6 +27,7 @@ class Solution {
                 return new int[]{i, map.get(comp)};
             }
         }  
+        
         //no result found
         return new int[]{};
     }
