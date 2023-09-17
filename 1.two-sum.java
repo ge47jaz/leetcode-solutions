@@ -32,7 +32,5 @@ class Solution {
         return new int[]{};
     }
 }
-
-public static main
 // @lc code=end
 
