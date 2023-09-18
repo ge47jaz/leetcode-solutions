@@ -21,7 +21,8 @@ class Solution {
         }
 
         return stack.isEmpty();
-    }
+    } 
+    
 }
 // @lc code=end
 

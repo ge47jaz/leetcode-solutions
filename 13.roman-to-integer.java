@@ -25,8 +25,7 @@ class Solution {
             } else {
                 ans += m.get(s.charAt(i));
             }
-        }
-        
+        } 
         return ans;
     }
 }

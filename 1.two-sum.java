@@ -31,6 +31,7 @@ class Solution {
         //no result found
         return new int[]{};
     }
+
 }
 // @lc code=end
 
