@@ -6,10 +6,6 @@
 
 // @lc code=start
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
     public String longestCommonPrefix(String[] strs) {
         // Check if the input array is empty, if so, return an empty string
